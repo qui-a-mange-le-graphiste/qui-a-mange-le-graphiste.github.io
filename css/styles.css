@@ -1,2 +1,10 @@
 *{margin:0; padding:0;}
 h1, h2, h3, h4, h5, h6, p, img{margin-bottom:10px;}
+/*Mise en forme édito*/
+#edito{position:relative;}
+#edito.icono{position:absolute;}
+#edito.texte{position:absolute;}
+
+
+
+
