@@ -8,6 +8,6 @@ section{position: relative;}
 /*Mise en forme édito*/
 #edito{position:relative; overflow: hidden; height:1200px;}
 #edito .icono{position:relative; width:50%;}
-#edito .texte{position:absolute; left:100px; top:50px; font-size:1.2em; line-height:1.2em; background-color:white;}
+#edito .texte{position:relative; left:20%; top:-500px; font-size:1.2em; line-height:1.2em; background-color:white;}
 
 footer{position: relative; font-size: 1em; line-height: 1.2em;}
