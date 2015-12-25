@@ -5,7 +5,7 @@ h1{font-size:3em; line-height:1.2em;}
 /*Mise en forme édito*/
 #edito{position:relative;}
 #edito .icono{position:absolute; width:50%;}
-#edito .texte{position:absolute; left:100px; font-size:1.2em; line-height:1em; background-color:white;}
+#edito .texte{position:absolute; left:100px; font-size:1.2em; line-height:1.2em; background-color:white;}
 
 
 
