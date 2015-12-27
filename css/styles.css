@@ -6,7 +6,7 @@ h1{font-size:4em; line-height:1em;}
 section{position: relative;}
 
 /* Mise en forme EDITO */
-#edito{font-size:1.4em; line-height:1.2em; height:1200px;}
+#edito{font-size:1.4em; line-height:1.2em; height:1500px;}
 #edito h2{font-weight: normal; text-align: right;}
 #edito .icono{width: 50%;}
 #edito article.texte{width: 80%; position: absolute; left:20%; top:150px; background-color: white;}
