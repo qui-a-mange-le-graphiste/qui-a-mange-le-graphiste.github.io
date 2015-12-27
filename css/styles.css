@@ -6,16 +6,13 @@ h1{font-size:4em; line-height:1em;}
 section{position: relative;}
 
 /* Mise en forme EDITO */
-#edito{font-size:1.4em; line-height:1.2em; height:1500px;}
+#edito{font-size:1.4em; line-height:1.2em; height:1200px;}
 #edito h2{font-weight: normal; text-align: right;}
 #edito .icono{width: 50%;}
 #edito article.texte{width: 80%; position: absolute; left:20%; top:150px; background-color: white;}
 
-/* Mise en forme PUB_140 */
-#pub_140{padding:100px; font-size:1em; line-height:1em; font-family:monospace; border:5px solid black;}
-
 /* Mise en forme UNIVERS_CODE */
-#univers_code{padding:20px; font-size:1.2em; line-height:1.2em;}
+#edito{padding:20px; font-size:1.2em; line-height:1.2em;}
 
 /* Mise en forme FOOTER */
 footer{margin-top: 100px; padding-top: 20px; border-top: 1px solid black; font-size:1em; line-height:1.2em;}
