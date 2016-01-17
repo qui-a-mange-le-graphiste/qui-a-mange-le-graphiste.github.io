@@ -12,7 +12,7 @@ section{position: relative;}
 #edito article.texte{width: 80%; position: absolute; left:20%; top:150px; background-color: white;}
 
 /* Mise en forme PUB_140 */
-#pub_140{margin:100px auto; padding:50px; font-family:monospace; font-size:2em; line-height:0.8em; border:10px solid black;}
+#pub_140{margin:100px auto; padding:50px; font-family:monospace; font-size:2em; line-height:2em; border:10px solid black;}
 
 /* Mise en forme UNIVERS_CODE */
 #univers_code{padding:20px; font-size:1.2em; line-height:1.2em;}
